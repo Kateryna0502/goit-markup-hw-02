@@ -19,7 +19,7 @@ img {
  font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
@@ -55,7 +55,7 @@ color: #404bbf;
 .main-title {
 font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -66,12 +66,12 @@ font-weight: 700;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
-        background: #404BBF;
+        background: #4D5AE5;
         color: #FFF;
 }
 .order-service-btn:hover,
 .order-service-btn:focus {
-    background: #4d5ae5;
+    background: #404BBF;
     color: #fff;
 }
 .benefits-list-title {
@@ -108,6 +108,43 @@ font-weight: 400;
     text-align: center;
     color: #434455;
     text-align: center;
+}
+
+.our-portfolio {
+font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
+    color: #2e2f42;
+}
+.images {
+width: 360px;
+    height: 300px;
+}
+.list-servises {
+font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.direct {
+font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.logo-footer {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
 .footer {
     font-weight: 400;
