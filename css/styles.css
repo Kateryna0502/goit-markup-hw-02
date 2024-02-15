@@ -46,24 +46,25 @@ font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    
 }
 .address-link:hover,
 .address-link:focus {
 color: #404bbf;
 }
+.hero {
+    background-color: #2E2F42;
+}
 .main-title {
-font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
-    background: #2e2f42;
+    
 }
  .order-service-btn {
         font-weight: 500;
-        font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
         background: #4D5AE5;
@@ -72,7 +73,7 @@ font-weight: 700;
 .order-service-btn:hover,
 .order-service-btn:focus {
     background: #404BBF;
-    color: #fff;
+    
 }
 .benefits-list-title {
     font-weight: 500;
@@ -83,13 +84,14 @@ font-weight: 700;
 }
 .benefits-list-text {
     font-weight: 400;
-        font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
+.our-team {
+    background: #f4f4fd;
+}
 .team-main {
-    font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
@@ -98,10 +100,7 @@ font-weight: 700;
         color: #2e2f42;
 }
 .team-list-item {
-    background: #f4f4fd;
-}
-.team-list-avatar {
-background: #fff;
+    background: #fff;
 }
 .team-list-fullname {
 font-weight: 500;
@@ -113,7 +112,6 @@ font-weight: 500;
 }
 .profession {
 font-weight: 400;
-    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
@@ -121,7 +119,6 @@ font-weight: 400;
     text-align: center;
 }
 .portfolio-info {
-    font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
@@ -130,17 +127,12 @@ font-weight: 400;
         color: #2e2f42;
 }
 .our-portfolio {
-font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
-}
-.images {
-width: 360px;
-    height: 300px;
 }
 .list-servises {
 font-weight: 500;
