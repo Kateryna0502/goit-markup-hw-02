@@ -158,6 +158,7 @@ font-weight: 400;
 }
 .foot {
     background: #2e2f42;
+    color: #f4f4fd;
 }
 .logo {
     font-family: "Raleway", sans-serif;
@@ -167,6 +168,9 @@ font-weight: 400;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+}
+.logo-part-foot {
+    color: #f4f4fd;
 }
 .footer {
     font-weight: 400;
